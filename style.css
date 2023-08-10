@@ -1,12 +1,11 @@
 body{
 	background-color: #040D36;
-	font-family: system-ui, sans-serif;
+	font-family: system-ui, Brush Script;
 	font-size: 18px;
 }
 a{
-	background-color: #FFFFFF;
 	color: #FFFFFF;
 }
-h1{
+h1,h2{
 	color: #FFFFFF;
 }
